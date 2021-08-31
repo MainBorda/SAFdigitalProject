@@ -42,10 +42,10 @@
                         <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-parent="#sidenavAccordion">
                             <nav class="sb-sidenav-menu-nested nav"><a class="nav-link" href="#">FACEBOOK</a><a class="nav-link" href="#">INSTAGRAM</a><a class="nav-link" href="layout-sidenav-light.html">TWITTER</a><a class="nav-link" href="layout-sidenav-light.html">YOUTUBE</a></nav>
                         </div>
-                        <div class="sb-sidenav-menu-heading">NOSOTROS</div>
-                        <a class="nav-link" href="charts.html">
+                        <div class="sb-sidenav-menu-heading">INFORMACION</div>
+                        <a class="nav-link" href="nosotros.php">
                             <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                            INFORMACIÓN
+                            NOSOTROS
                         </a><a class="nav-link" href="tabla.php">
                             <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                             CONTÁCTANOS
