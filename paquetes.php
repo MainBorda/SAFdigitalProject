@@ -120,6 +120,7 @@ include("plantillas/dashboard.php");
         </div>
       </main>
     </div>
+
 <?php
 include("plantillas/footer.php");
 ?>
