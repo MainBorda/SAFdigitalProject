@@ -30,7 +30,7 @@
                         <div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-parent="#sidenavAccordion">
                             <nav class="sb-sidenav-menu-nested nav"><a class="nav-link" href="layout-static.html">Static Navigation</a><a class="nav-link" href="layout-sidenav-light.html">Light Sidenav</a></nav>
                         </div-->
-                        <a class="nav-link" href="charts.html">
+                        <a class="nav-link" href="paquetes.php">
                             <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
                             PAQUETES
                         </a>
