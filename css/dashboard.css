@@ -1,0 +1,32 @@
+.btn-toggle:hover,
+.btn-toggle:focus {
+  background-color: white;
+}
+
+.btn-toggle {
+  background-color: whitesmoke;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: slateblue;
+}
+
+.nav-pills .nav-link:hover {
+  background-color: slateblue;
+}
+
+.btn-outline-success {
+  color: slateblue;
+  border-color: slateblue;
+}
+
+.btn-outline-success:hover {
+  background-color: slateblue;
+  color: white;
+  border-color: white;
+}
+
+.btn-toggle-nav a:hover {
+  background-color: slateblue;
+}
