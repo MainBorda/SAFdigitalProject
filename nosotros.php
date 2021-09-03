@@ -13,7 +13,7 @@ include("plantillas/dashboard.php");
     <div class="container py-3">
       <header>
         <div class="pricing-header p-3 pb-md-4 mx-auto text-center" >
-          <h1 class="display-4 fw-normal" >NOSOTROS</h1>
+          <h1 class="display-4 fw-normal" >SAFdigital</h1>
           </div>
       </header>
   <img src= "imagenes/logo.jpg" width="500" height="300" align="right">
