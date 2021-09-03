@@ -13,7 +13,6 @@
             </form>
         </div>
     </nav>
-    <main>
         <div class="offcanvas offcanvas-start d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 280px;" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
             <a href="index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
                 <svg class="bi me-2" xmlns="http://www.w3.org/2000/svg" width="40" height="32" fill="currentColor" class="bi bi-kanban-fill" viewBox="0 0 16 16">

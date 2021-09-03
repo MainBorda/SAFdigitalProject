@@ -13,4 +13,5 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sidebars/">
     <link href="css/sidebars.css" rel="stylesheet">
     <link href="css/dashboard.css" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
 </head>
